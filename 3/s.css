@@ -1,0 +1,44 @@
+.oups{ 
+    height: 400px;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.o{
+    width: 233px;
+    /* height: 1px; */
+  filter: contrast(250%);
+    /* padding:20px 50px ; */
+}
+.p{
+    width: 233px;
+    /* height: 2px; */
+    filter: hue-rotate(150deg);
+    /* padding:20px 350px ; */
+}
+.s{
+    /* height: 20px; */
+    /* padding: 20px 650px; */
+    filter: sepia(100%);
+}
+.u{
+    width: 233px;
+    /* height: 20px; */
+    /* padding:10px 950px ; */
+}
+
+.q {
+    filter: saturate(15%);
+}
+
+.w {
+    filter:invert(45%) ;
+}
+
+.e {
+    filter: opacity(78%);
+}
+
+.r {
+    filter:hue-rotate(305deg);
+}
